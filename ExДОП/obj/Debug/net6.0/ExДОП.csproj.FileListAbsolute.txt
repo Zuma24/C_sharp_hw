@@ -1,0 +1,15 @@
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\bin\Debug\net6.0\ExДОП.exe
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\bin\Debug\net6.0\ExДОП.deps.json
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\bin\Debug\net6.0\ExДОП.runtimeconfig.json
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\bin\Debug\net6.0\ExДОП.dll
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\bin\Debug\net6.0\ExДОП.pdb
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\obj\Debug\net6.0\ExДОП.csproj.AssemblyReference.cache
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\obj\Debug\net6.0\ExДОП.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\obj\Debug\net6.0\ExДОП.AssemblyInfoInputs.cache
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\obj\Debug\net6.0\ExДОП.AssemblyInfo.cs
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\obj\Debug\net6.0\ExДОП.csproj.CoreCompileInputs.cache
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\obj\Debug\net6.0\ExДОП.dll
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\obj\Debug\net6.0\refint\ExДОП.dll
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\obj\Debug\net6.0\ExДОП.pdb
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\obj\Debug\net6.0\ExДОП.genruntimeconfig.cache
+D:\ГИК\Проекты\C_sharp_дз\ExДОП\obj\Debug\net6.0\ref\ExДОП.dll
