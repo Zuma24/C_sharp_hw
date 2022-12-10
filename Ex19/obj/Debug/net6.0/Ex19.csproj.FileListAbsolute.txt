@@ -1,0 +1,15 @@
+D:\ГИК\Проекты\C_sharp_дз\Ex19\bin\Debug\net6.0\Ex19.exe
+D:\ГИК\Проекты\C_sharp_дз\Ex19\bin\Debug\net6.0\Ex19.deps.json
+D:\ГИК\Проекты\C_sharp_дз\Ex19\bin\Debug\net6.0\Ex19.runtimeconfig.json
+D:\ГИК\Проекты\C_sharp_дз\Ex19\bin\Debug\net6.0\Ex19.dll
+D:\ГИК\Проекты\C_sharp_дз\Ex19\bin\Debug\net6.0\Ex19.pdb
+D:\ГИК\Проекты\C_sharp_дз\Ex19\obj\Debug\net6.0\Ex19.csproj.AssemblyReference.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex19\obj\Debug\net6.0\Ex19.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИК\Проекты\C_sharp_дз\Ex19\obj\Debug\net6.0\Ex19.AssemblyInfoInputs.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex19\obj\Debug\net6.0\Ex19.AssemblyInfo.cs
+D:\ГИК\Проекты\C_sharp_дз\Ex19\obj\Debug\net6.0\Ex19.csproj.CoreCompileInputs.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex19\obj\Debug\net6.0\Ex19.dll
+D:\ГИК\Проекты\C_sharp_дз\Ex19\obj\Debug\net6.0\refint\Ex19.dll
+D:\ГИК\Проекты\C_sharp_дз\Ex19\obj\Debug\net6.0\Ex19.pdb
+D:\ГИК\Проекты\C_sharp_дз\Ex19\obj\Debug\net6.0\Ex19.genruntimeconfig.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex19\obj\Debug\net6.0\ref\Ex19.dll
