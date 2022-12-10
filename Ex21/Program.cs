@@ -11,4 +11,4 @@ Console.Write("Y 1-ой точки: ");
 double y2 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Z 1-ой точки: ");
 double z2 = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine(Math.Round(Math.Sqrt(Math.Pow(x1-x2,2)+Math.Pow(y1-y2,2)+Math.Pow(z1-z2,2))));
+Console.WriteLine(Math.Round(Math.Sqrt(Math.Pow(x1-x2,2)+Math.Pow(y1-y2,2)+Math.Pow(z1-z2,2)),2));
