@@ -1,0 +1,15 @@
+D:\ГИК\Проекты\C_sharp_дз\Ych1\bin\Debug\net6.0\Ych1.exe
+D:\ГИК\Проекты\C_sharp_дз\Ych1\bin\Debug\net6.0\Ych1.deps.json
+D:\ГИК\Проекты\C_sharp_дз\Ych1\bin\Debug\net6.0\Ych1.runtimeconfig.json
+D:\ГИК\Проекты\C_sharp_дз\Ych1\bin\Debug\net6.0\Ych1.dll
+D:\ГИК\Проекты\C_sharp_дз\Ych1\bin\Debug\net6.0\Ych1.pdb
+D:\ГИК\Проекты\C_sharp_дз\Ych1\obj\Debug\net6.0\Ych1.csproj.AssemblyReference.cache
+D:\ГИК\Проекты\C_sharp_дз\Ych1\obj\Debug\net6.0\Ych1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИК\Проекты\C_sharp_дз\Ych1\obj\Debug\net6.0\Ych1.AssemblyInfoInputs.cache
+D:\ГИК\Проекты\C_sharp_дз\Ych1\obj\Debug\net6.0\Ych1.AssemblyInfo.cs
+D:\ГИК\Проекты\C_sharp_дз\Ych1\obj\Debug\net6.0\Ych1.csproj.CoreCompileInputs.cache
+D:\ГИК\Проекты\C_sharp_дз\Ych1\obj\Debug\net6.0\Ych1.dll
+D:\ГИК\Проекты\C_sharp_дз\Ych1\obj\Debug\net6.0\refint\Ych1.dll
+D:\ГИК\Проекты\C_sharp_дз\Ych1\obj\Debug\net6.0\Ych1.pdb
+D:\ГИК\Проекты\C_sharp_дз\Ych1\obj\Debug\net6.0\Ych1.genruntimeconfig.cache
+D:\ГИК\Проекты\C_sharp_дз\Ych1\obj\Debug\net6.0\ref\Ych1.dll

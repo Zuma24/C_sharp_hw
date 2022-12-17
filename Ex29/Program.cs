@@ -9,7 +9,6 @@ Console.WriteLine($"[{string.Join(", ", array)}]");
 
 //Ввод случайных чисел
 
-
 Console.Write("Введите размер массива: ");
 int nu = Convert.ToInt32(Console.ReadLine());
 int[] num = new int[nu];

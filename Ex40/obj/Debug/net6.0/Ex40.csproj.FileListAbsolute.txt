@@ -1,0 +1,15 @@
+D:\ГИК\Проекты\C_sharp_дз\Ex40\bin\Debug\net6.0\Ex40.exe
+D:\ГИК\Проекты\C_sharp_дз\Ex40\bin\Debug\net6.0\Ex40.deps.json
+D:\ГИК\Проекты\C_sharp_дз\Ex40\bin\Debug\net6.0\Ex40.runtimeconfig.json
+D:\ГИК\Проекты\C_sharp_дз\Ex40\bin\Debug\net6.0\Ex40.dll
+D:\ГИК\Проекты\C_sharp_дз\Ex40\bin\Debug\net6.0\Ex40.pdb
+D:\ГИК\Проекты\C_sharp_дз\Ex40\obj\Debug\net6.0\Ex40.csproj.AssemblyReference.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex40\obj\Debug\net6.0\Ex40.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИК\Проекты\C_sharp_дз\Ex40\obj\Debug\net6.0\Ex40.AssemblyInfoInputs.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex40\obj\Debug\net6.0\Ex40.AssemblyInfo.cs
+D:\ГИК\Проекты\C_sharp_дз\Ex40\obj\Debug\net6.0\Ex40.csproj.CoreCompileInputs.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex40\obj\Debug\net6.0\Ex40.dll
+D:\ГИК\Проекты\C_sharp_дз\Ex40\obj\Debug\net6.0\refint\Ex40.dll
+D:\ГИК\Проекты\C_sharp_дз\Ex40\obj\Debug\net6.0\Ex40.pdb
+D:\ГИК\Проекты\C_sharp_дз\Ex40\obj\Debug\net6.0\Ex40.genruntimeconfig.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex40\obj\Debug\net6.0\ref\Ex40.dll
