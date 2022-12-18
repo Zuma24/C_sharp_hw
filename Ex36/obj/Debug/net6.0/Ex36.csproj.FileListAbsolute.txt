@@ -1,0 +1,15 @@
+D:\ГИК\Проекты\C_sharp_дз\Ex36\bin\Debug\net6.0\Ex36.exe
+D:\ГИК\Проекты\C_sharp_дз\Ex36\bin\Debug\net6.0\Ex36.deps.json
+D:\ГИК\Проекты\C_sharp_дз\Ex36\bin\Debug\net6.0\Ex36.runtimeconfig.json
+D:\ГИК\Проекты\C_sharp_дз\Ex36\bin\Debug\net6.0\Ex36.dll
+D:\ГИК\Проекты\C_sharp_дз\Ex36\bin\Debug\net6.0\Ex36.pdb
+D:\ГИК\Проекты\C_sharp_дз\Ex36\obj\Debug\net6.0\Ex36.csproj.AssemblyReference.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex36\obj\Debug\net6.0\Ex36.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИК\Проекты\C_sharp_дз\Ex36\obj\Debug\net6.0\Ex36.AssemblyInfoInputs.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex36\obj\Debug\net6.0\Ex36.AssemblyInfo.cs
+D:\ГИК\Проекты\C_sharp_дз\Ex36\obj\Debug\net6.0\Ex36.csproj.CoreCompileInputs.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex36\obj\Debug\net6.0\Ex36.dll
+D:\ГИК\Проекты\C_sharp_дз\Ex36\obj\Debug\net6.0\refint\Ex36.dll
+D:\ГИК\Проекты\C_sharp_дз\Ex36\obj\Debug\net6.0\Ex36.pdb
+D:\ГИК\Проекты\C_sharp_дз\Ex36\obj\Debug\net6.0\Ex36.genruntimeconfig.cache
+D:\ГИК\Проекты\C_sharp_дз\Ex36\obj\Debug\net6.0\ref\Ex36.dll
